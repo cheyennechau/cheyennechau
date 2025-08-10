@@ -5,4 +5,4 @@
 - always trying to learn new tools, but particularly enjoy exploring: <strong>React & ThreeJS</strong>
 - matcha addict, meme enthusiast, occasional golf player
 
-💼 [[in]](www.linkedin.com/in/cheyenne-chau)
+💼 [[in]](https://www.linkedin.com/in/cheyenne-chau)  
