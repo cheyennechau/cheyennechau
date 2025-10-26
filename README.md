@@ -3,6 +3,6 @@
 ### 👩🏻‍💻 cs + business @ usc
 
 - always trying to learn new tools, but particularly enjoy exploring: <strong>React & ThreeJS</strong>
-- matcha addict, meme enthusiast, occasional golf player
+- matcha addict, recreational potter, occasional golf player
 
 💼 [[in]](https://www.linkedin.com/in/cheyenne-chau)  
